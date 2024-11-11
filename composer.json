@@ -1,11 +1,12 @@
 {
-    "name": "laravel/laravel",
+    "name": "alfamid/medico_familia",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
+    "description": "Sistema para relacionar medicos a pacientes.",
+    "keywords": ["medico_familia", "medico","familia"],
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "inertiajs/inertia-laravel": "^1.3",
         "laravel/framework": "^11.9",
         "laravel/tinker": "^2.9"
     },
